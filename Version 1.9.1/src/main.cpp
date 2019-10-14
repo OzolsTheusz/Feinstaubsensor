@@ -17,8 +17,8 @@ mode 4 -> Luftdata benutzen aber kein MQTT*/
 #define Mode 4
 
 //Netzwerk+++++++++++++++++++++++++++++
-const char *ssid1 = "test";  //CHANGE!!!!!!!!!!!!!!!
-const char *password1 = "stichmann"; //CHANGE!!!!!!!!!!!!
+const char *ssid1 = "SSID_HERE";  //CHANGE!!!!!!!!!!!!!!!
+const char *password1 = "PWD_HERE"; //CHANGE!!!!!!!!!!!!
 //Deepsleep++++++++++++++++++++++++++++
 #define uS_TO_S_FACTOR 1000000  /* Conversion factor for micro seconds to seconds */
 #define TIME_TO_SLEEP  122

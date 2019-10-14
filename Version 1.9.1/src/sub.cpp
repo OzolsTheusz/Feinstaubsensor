@@ -13,9 +13,9 @@
 #define MQTT_Fein25   "42nibbles/MQTT/FEINSTAUB/Fein25"
 #define MQTT_FeinTEMP "42nibbles/MQTT/FEINSTAUB/FeinTemp"
 #define MQTT_SLEEP    "42nibbles/MQTT/SLEEP"
- const char* ssid =         "hw1_gast"; //CHANGE!!!!!!!!!!!!!!!!
- const char* password =     "KeineAhnung"; //CHANGE!!!!!!!!!!!!
- const char* mqtt_server =  "dz-pi.hw1.fb4.fh"; //CHANGE!!!!!!!!!!!!!!!!!!
+ const char* ssid =         "PWD_HERE"; //CHANGE!!!!!!!!!!!!!!!!
+ const char* password =     "SSID_HERE"; //CHANGE!!!!!!!!!!!!
+ const char* mqtt_server =  "SERVER_ADRESS_HERE"; //CHANGE!!!!!!!!!!!!!!!!!!
  //ErsetzungsPunkt für MQTT
 
 /*
